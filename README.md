@@ -1,6 +1,14 @@
 # css grid breakout
 <p>This is a repo for the CSS grid breakout.</p>
 
+### tools
+
+<p> Here are the tools I used in the lecture </p>
+
+ - [Responsive.gs](http://responsive.gs/)
+ - #### not to be confused with [responsive grid system](http://www.responsivegridsystem.com/)
+ - [Sass](http://sass-lang.com/)
+
 ### resources
 
 <p>Here's a list of resources that you may find useful when writing css</p>
