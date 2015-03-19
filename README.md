@@ -1,5 +1,6 @@
-# css grid breakout
-<p>This is a repo for the CSS grid breakout.</p>
+# Advanced CSS lecture
+
+<p> to look at the changes I applied to the 'Squirrel Nation' site I made look at the 'construction' branch</p>
 
 ### tools
 
