@@ -1,6 +1,6 @@
 # Advanced CSS lecture
 
-<p> to look at the changes I applied to the 'Squirrel Nation' site I made look at the 'construction' branch</p>
+<p>To look at the changes I applied to the 'Squirrel Nation' site using responsive.gs look at the 'construction' branch.</p>
 
 ### tools
 
